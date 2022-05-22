@@ -1,0 +1,26 @@
+h1 {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: blue;
+    border: 1px solid black;
+    width: 10%;
+    text-align: center;
+  }
+  p {
+    font-size: 18px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  #header {
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+      color: blueviolet;
+    
+      text-align: center;
+    }
+    
+    .company {
+      border-collapse: collapse;
+      width: 40%;
+      border: 1px solid black;
+      font-size: 16px;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    }
